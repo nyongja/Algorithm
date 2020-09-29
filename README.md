@@ -1,4 +1,4 @@
-# 이것이 코딩 테스트다 with 파이썬 (Algorithm Study)
+# 이것이 취업을 위한 코딩 테스트다 with 파이썬 (Algorithm Study)
 
 <img src="https://github.com/nyongja/This-is-the-Coding-Test/blob/master/book_info.png" align="cente" width="250"/>
 
