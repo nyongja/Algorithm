@@ -9,3 +9,4 @@
 - [Ch4. Implementation(구현)](https://github.com/nyongja/This-is-the-Coding-Test/tree/master/Ch4%20Implementation)
 - [Ch5. DFS_BFS](https://github.com/nyongja/This-is-the-Coding-Test/tree/master/Ch5%20DFS_BFS)
 - [Ch6. Sort(정렬)](https://github.com/nyongja/This-is-the-Coding-Test/tree/master/Ch6%20Sorting)
+- [Ch7. Binary Search(이진탐색)](https://github.com/nyongja/This-is-the-Coding-Test/tree/master/Ch7%20Binary%20Search)
