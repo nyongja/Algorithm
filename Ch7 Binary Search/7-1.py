@@ -14,6 +14,6 @@ if __name__ == "__main__" :
     sell_list = list(map(int, input().split()))
     m = int(input())
     buy_list = list(map(int, input().split()))
-
+    sell_list.sort()
     for i in buy_list :
         print(binary_search(sell_list, i, 0, n-1))
