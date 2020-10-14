@@ -28,5 +28,4 @@ def solution(m, rice_cake) :
 if __name__ == "__main__" :
     n, m = map(int, input().split())
     rice_cake = list(map(int, input().split()))
-
     print(solution(m, rice_cake))
