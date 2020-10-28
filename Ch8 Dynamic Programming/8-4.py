@@ -1,6 +1,6 @@
 # 8-4 효율적인 화폐 구성
                 
-def solution(money_list, m) :
+def solution(money_list, n, m) :
     d = [10001] * (m + 1)
     d[0] = 0
     for i in range(n) :
@@ -20,4 +20,4 @@ if __name__ == "__main__":
     for _ in range(n) :
         money_list.append(int(input()))
     
-    print(solution(money_list, m))                                                  
+    print(solution(money_list, n, m))                                                  
