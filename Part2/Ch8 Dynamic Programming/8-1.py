@@ -10,7 +10,7 @@ def solution(x) :
             d[i] = min(d[i], d[i // 3] + 1)
         if i % 5 == 0 :
             d[i] = min(d[i], d[i // 5] + 1)
-    
+     
     return d[x]
 
 if __name__ == "__main__" :
