@@ -13,7 +13,7 @@ def union_team(parent, a, b) :
             parent[b] = a
         else :
             parent[a] = b
-
+ 
 if __name__ == "__main__" :
     n, m = map(int, input().split())
     parent = [0] * (n + 1)
