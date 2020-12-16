@@ -1,6 +1,6 @@
 def solution1(n, k) :
     count = 0
-    
+     
     # n이 k로 나눌 수 있을 때까지 -1
     while n%k != 0 and n!= 1:
         n -= 1
