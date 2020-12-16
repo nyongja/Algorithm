@@ -1,4 +1,4 @@
-if __name__ == "__main__" :
+if __name__ == "__main__" : 
     n, m = map(int, input().split())
     max_card = 0 
     for i in range(n) :
