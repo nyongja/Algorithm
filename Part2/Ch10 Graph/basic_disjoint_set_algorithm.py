@@ -3,7 +3,7 @@ def find_parent(parent, x) :
     # 루트 노드가 아니라면, 루트 노드를 찾을 때까지 재귀적으로 호출
     if parent[x] != x :
         return find_parent(parent, parent[x])
-    return x
+    return x 
 
 # 두 원소가 속한 집합을 합치기
 def union_parent(parent, a, b) :
