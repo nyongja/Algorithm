@@ -13,7 +13,7 @@ for _ in range(e) :
     graph[a].append(b) # 정점 A에서 B로 이동 가능
     # 진입차수를 1 증가
     indegree[b] += 1
-
+ 
 # 위상 정렬 함수
 def topology_sort():
     result = [] # 알고리즘 수행 결과를 담을 리스트
