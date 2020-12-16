@@ -2,7 +2,7 @@ def check_position(x, y, n) :
     if x < 1 or x > n or y < 1 or y > n:
         return False
     return True
-
+ 
 dx = [0, 0, -1, 1]
 dy = [-1, 1, 0, 0]
 move = {'L' : 0, 'R' : 1, 'U' : 2, 'D' : 3}
