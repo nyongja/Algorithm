@@ -4,7 +4,7 @@ def solution(m, rice_cake) :
     rice_cake.sort()
     start = 0
     end = rice_cake[-1]
-    answer = 0
+    answer = 0 
 
     while start <= end :
         cut = (start + end) // 2
