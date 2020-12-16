@@ -5,7 +5,7 @@ def solution(n):
     for sec in range(0, 60) :
         if sec % 10 == 3 or sec // 10 == 3 :
             sec_count += 1
-    # 1시간에 '3'이 등장하는 분
+    # 1시간에 '3'이 등장하는 분 
     min_count = 0
     for min in range(0, 60) :
         if min % 10 == 3 or min // 10 == 3 :
