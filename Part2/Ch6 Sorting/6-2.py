@@ -13,4 +13,4 @@ if __name__ == "__main__" :
     # case 2
     # student.sort(key = lambda student : student[1])
     for i in student :
-        print(i[0], end = ' ')
+        print(i[0], end = ' ') 
