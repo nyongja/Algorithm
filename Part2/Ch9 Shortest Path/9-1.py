@@ -1,5 +1,5 @@
 # 미래 도시
-
+ 
 INF = int(1e9)
 if __name__ == "__main__" :
     n, m = map(int, input().split())
