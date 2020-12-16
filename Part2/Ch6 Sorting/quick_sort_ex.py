@@ -7,7 +7,7 @@ array = [7, 5, 9, 0, 3, 1, 6, 2, 4, 8]
 # 직관적인 형태의 퀵 정렬 코드
 def quick_sort(array, start, end):
     if start >= end : # 원소가 1개인 경우 종료
-        return
+        return 
     pivot = start # pivot은 첫 번째 원소
     left = start + 1
     right = end
