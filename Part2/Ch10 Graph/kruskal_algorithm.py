@@ -11,7 +11,7 @@ def union_parent(parent, a, b) :
     b = find_parent(parent, b)
     if a < b :
         parent[b] = a
-    else :
+    else : 
         parent[a] = b
 
 # 노드의 개수와 간선(union 연산)의 개수 입력받기
