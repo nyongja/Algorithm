@@ -1,7 +1,7 @@
 # 음료수 얼려 먹기(p.149)
 
 def dfs(ice_tray, x, y, n, m) :
-
+ 
     if x < 0 or x >= n or y < 0 or y >= m :
         return False
     if ice_tray[x][y] == 0 :
