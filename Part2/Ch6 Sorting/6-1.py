@@ -1,7 +1,7 @@
 def sort(num_list) :
     num_list.sort(reverse = True)
     return
-
+ 
 if __name__ == "__main__" :
     n = int(input())
     num_list = []
