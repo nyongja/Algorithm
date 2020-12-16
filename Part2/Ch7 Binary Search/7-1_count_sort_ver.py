@@ -17,5 +17,5 @@ for i in x :
     # 해당 부품이 존재하는지 확인
     if array[i] == 1 :
         print('yes', end = ' ')
-    else :
+    else : 
         print('no', end = ' ')
