@@ -8,7 +8,7 @@ def check_position(n, m, a, b, game_map):
 
 def solution(n, m, a, b, d, game_map) :
     result = 0
-
+ 
     while True :
         d = (d+1)%4
         if check_position(n, m, a + move_type[d][0], b + move_type[d][1], game_map) :
