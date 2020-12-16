@@ -3,7 +3,7 @@ def check_position(x, y) :
     if x < 0 or x > 8 or y < 0 or y > 8 :
         return False
     return True
-
+ 
 # 나이트가 이동할 수 있는 모든 types
 dx = [-2, -2, 2, 2, -1, -1, 1, 1]
 dy = [-1, 1, -1, 1, -2, 2, -2, 2]
