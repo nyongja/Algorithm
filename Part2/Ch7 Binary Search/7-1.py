@@ -5,7 +5,7 @@ def binary_search(sell_list, item, start, end) :
             return "yes"
         elif item < mid :
             end = mid - 1
-        else :
+        else : 
             start = mid + 1
     return "no"
 
