@@ -14,3 +14,7 @@
 - [Ch8. Dynamic Programming(다이나믹 프로그래밍)](https://github.com/nyongja/This-is-the-Coding-Test/tree/master/Part2/Ch8%20Dynamic%20Programming)
 - [Ch9. Shortest Path(최단 경로)](https://github.com/nyongja/This-is-the-Coding-Test/tree/master/Part2/Ch9%20Shortest%20Path)
 - [Ch10. Graph Theory(그래프 이론)](https://github.com/nyongja/This-is-the-Coding-Test/tree/master/Part2/Ch10%20Graph)
+
+### Part3
+- [Ch11. Greedy Problem(그리디 문제)](https://github.com/nyongja/This-is-the-Coding-Test/tree/master/Part3/Ch11%20Greedy)
+- [Ch12. Implementation Problem(구현 문제)](https://github.com/nyongja/This-is-the-Coding-Test/tree/master/Part3/Ch12%20Implementation)
