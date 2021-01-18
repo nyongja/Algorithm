@@ -32,5 +32,4 @@ if __name__ == "__main__" :
         else :
             result += 1
             union_parent(parent, tmp_parent, tmp_parent - 1)
-
     print(result)
