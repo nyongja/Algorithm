@@ -1,4 +1,8 @@
 # 13-4 18. 괄호변환
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7bb61eb5b6c500e9c1dd11afc238fc72f4499a96
 # 균형잡힌 괄호 문자열의 인덱스 반환
 def balanced_index(p) :
     count = 0 # 왼쪽 괄호 개수
@@ -12,7 +16,11 @@ def balanced_index(p) :
 # 올바른 괄호 문자열인지 판단
 def check_proper(p) :
     count = 0 # 왼쪽 괄호 개수
+<<<<<<< HEAD
     for i in p : 
+=======
+    for i in p :
+>>>>>>> 7bb61eb5b6c500e9c1dd11afc238fc72f4499a96
         if i == '(' :
             count += 1
         else :
@@ -46,4 +54,8 @@ def solution(p):
     return answer
 
 p = input()
+<<<<<<< HEAD
 print(solution(p))  
+=======
+print(solution(p))
+>>>>>>> 7bb61eb5b6c500e9c1dd11afc238fc72f4499a96
